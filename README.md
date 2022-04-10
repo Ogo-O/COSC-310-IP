@@ -5,6 +5,8 @@ Our project is a simple and friendly chat-bot with which the user can talk about
 We have used the Java GUI to create an interface for the chat bot and used Java as the programming language that is used to develop this chat bot.
  
  ---
+ ## First API <br>
+ 
  ## Chosen SDLC: Waterfall Model
  
 The software development cycle that we decided to work on is the waterfall model as for small deliverable projects waterfall model is convenient. As we are developing a small chat-bot whose requirements are clear, the project is short and simple, waterfall model seemed like a good fit for this project. This model is also very easy to understand as the steps are straightforward and avoids any confusion as it takes a more linear approach to the completion of the project.<br>
