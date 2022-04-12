@@ -37,7 +37,7 @@ On the other hand, this model does slow down the process as the team needs to co
 ---
 ## Individual Project Updates: 
 ## First API <br>
- For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language into the chat session. 
+ For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language (specifically spanish in this case) into the chat session. 
  
  
  ## Second API <br>
