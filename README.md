@@ -1,4 +1,4 @@
-# COSC-310-Assignment2
+# COSC-310-Individual Project
 ## A brief description of our project: <br>
 Our project is a simple and friendly chat-bot with which the user can talk about their hobbies, interests etc.  We are using the chat bot as a friend but in most cases these days these bots are used for customer service. Keeping in mind the recent pandemic and how it has changed everyone’s social lives. A virtual “friend” is able to make normal conversations and allows the user to chat to this bot anytime and share their experiences when their friends are busy or for the people who have a hard time socialising.
 <br>
@@ -6,6 +6,10 @@ We have used the Java GUI to create an interface for the chat bot and used Java 
  
  ---
  ## First API <br>
+ For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language into the chat session. 
+ 
+ ## Second API <br>
+ For the second API that we used was the Directions API where, if you ask to get directions the chat will direct you to Google Maps to choose your destination. It's harder to display in the chat as it has to choose what type of directions you want to use. (Driving, Transit or walking)
  
  ## Chosen SDLC: Waterfall Model
  
