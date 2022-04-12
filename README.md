@@ -8,8 +8,12 @@ We have used the Java GUI to create an interface for the chat bot and used Java 
  ## First API <br>
  For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language into the chat session. 
  
+ ---
+ 
  ## Second API <br>
  For the second API that we used was the Directions API where, if you ask to get directions the chat will direct you to Google Maps to choose your destination. It's harder to display in the chat as it has to choose what type of directions you want to use. (Driving, Transit or walking)
+ 
+ ---
  
  ## Chosen SDLC: Waterfall Model
  
