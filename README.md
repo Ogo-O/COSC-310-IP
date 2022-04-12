@@ -5,15 +5,6 @@ Our project is a simple and friendly chat-bot with which the user can talk about
 We have used the Java GUI to create an interface for the chat bot and used Java as the programming language that is used to develop this chat bot.
  
  ---
- ## First API <br>
- For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language into the chat session. 
- 
- ---
- 
- ## Second API <br>
- For the second API that we used was the Directions API where, if you ask to get directions the chat will direct you to Google Maps to choose your destination. It's harder to display in the chat as it has to choose what type of directions you want to use. (Driving, Transit or walking)
- 
- ---
  
  ## Chosen SDLC: Waterfall Model
  
@@ -44,6 +35,16 @@ On the other hand, this model does slow down the process as the team needs to co
 
 
 ---
+## Individual Project Updates: 
+## First API <br>
+ For the First API that we used in this ChatBot was the Translate API where in the Chat if the user tells the Bot they wish to translate or change the message will translate the message into another language into the chat session. 
+ 
+ 
+ ## Second API <br>
+ For the second API that we used was the Directions API where, if you ask to get directions the chat will direct you to Google Maps to choose your destination. It's harder to display in the chat as it has to choose what type of directions you want to use. (Driving, Transit or walking)
+ 
+ ---
+
 ## Data Flow Diagrams
 
 We have also added two data flow diagrams for this project.
